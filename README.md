@@ -3,6 +3,10 @@
 <img src = 'https://github.com/vlx01/vlx01/blob/master/GettyImages.jpg'>
 
 
+[![Vaishnavi Varshney's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/vlx01)
+
+
+
 
 - 🔭 I’m currently working on Personal Projects.
 - 🌱 I’m currently learning Python.
