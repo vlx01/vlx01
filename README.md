@@ -4,9 +4,9 @@
 
 
 
-- 🔭 I’m currently working on Personal Projects.
-- 🌱 I’m currently Frontend Devloper learning path.
-- 👯 I’m looking to collaborate on Frontend projects.
+- 🔭 Currently working on Personal Projects.
+- 🌱 Currently on Frontend Devloper learning path.
+- 👯 Looking to collaborate on Frontend projects.
 - 📫 Reach me at: https://www.linkedin.com/in/vlx01/
 - 🐍 PyPi at: https://pypi.org/user/vlx01/
 - ⚡ Fun fact: You can always find me watching dog videos.
