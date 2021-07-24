@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-<img src = 'https://github.com/vlx01/vlx01/blob/master/Tech-Geek-Dad.jpg' width="100" height="80">
+<img src = 'https://github.com/vlx01/vlx01/blob/master/Tech-Geek-Dad.jpg' width="100%" height="80%">
 
 
 
