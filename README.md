@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-<img src = 'https://github.com/vlx01/vlx01/blob/master/GettyImages.jpg'>
+<img src = 'https://github.com/vlx01/vlx01/blob/master/Tech-Geek-Dad.jpg'>
 
 
 
